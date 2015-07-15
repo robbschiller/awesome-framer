@@ -7,11 +7,14 @@ A curated list of awesome Framer resources.
 
 ## Modules
 - [Framer Google Fonts](https://github.com/peteschaffner/framer-googlefonts)
-- [tabBarModules](https://github.com/petterheterjag/tabBarModule)
+- [tabBarModule](https://github.com/petterheterjag/tabBarModule)
+- [RippleTransition](https://github.com/offirg75/framer.RippleTransition)
+- [Framer Icon](https://github.com/peteschaffner/framer-icon)
 
 ## Tutorials
-- [Prototyping with Framer](https://speakerdeck.com/stakes/prototyping-with-framer)
-- [Framer Teach Examples](https://github.com/motif/FramerTeachExamples)
+- [iOS Lock Screen Interaction](http://www.prototypingwithframer.com/ios-lock-screen-interaction/)
 
-## Misc
-- [Framerco.de](http://framerco.de)
+## Presentations
+- [Prototyping with Framer](https://speakerdeck.com/stakes/prototyping-with-framer) by [Jay Stakelon](http://twitter.com/stakelon)
+- [Framer Camp](http://framer.camp) by [Noah Levin](http://twitter.com/nlevin) and [Cemre Güngör](http://twitter.com/gem_ray)
+
