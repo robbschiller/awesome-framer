@@ -9,10 +9,15 @@ A curated list of awesome Framer resources.
 - [tabBarModule](https://github.com/petterheterjag/tabBarModule)
 - [RippleTransition](https://github.com/offirg75/framer.RippleTransition)
 - [Framer Icon](https://github.com/peteschaffner/framer-icon)
+- [Framer.iOSNotification](https://github.com/leinerud/framer.iosnotification)
+- [Franer.makeGradient](https://github.com/cupofjoakim/framer.makeGradient)
 
 ## Tutorials
 - [iOS Lock Screen Interaction](http://www.prototypingwithframer.com/ios-lock-screen-interaction/)
 - [Creating Your First Prototype With Framer](https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668)
+- [Periscope Heart Animation](https://www.youtube.com/watch?v=qFUXxqzZytU) by [Jordan Dobson](https://twitter.com/jordandobson) 
+- [New to Framer? Just 3 Things to Get Tou Started](https://medium.com/@designforhuman/new-to-framer-just-3-things-to-get-you-started-47397f27c71e)
+- [Using Parse to power up your Framer prototypes](https://medium.com/@gk3/using-parse-to-power-up-your-framer-prototypes-88cb87009d00) - by [George Kedenburg III](http://twitter.com/gk3)
 
 ## Presentations
 - [Prototyping with Framer](https://speakerdeck.com/stakes/prototyping-with-framer) - by [Jay Stakelon](http://twitter.com/stakelon)
@@ -27,3 +32,6 @@ A curated list of awesome Framer resources.
 - [Framerco.de](http://framerco.de)
 - [Prototyping with Framer](http://prototypingwithframer.com)
 - [Framer Experiments](http://thatedchao.com/published/2014/09/27/framer.html)
+
+## Books
+- [CoffeeScript for Framer](http://coffeescript-for-framerjs.com) by [Tessa Thornton](https://twitter.com/tessthornton)
