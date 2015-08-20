@@ -3,6 +3,7 @@ A curated list of awesome Framer resources.
 
 ## Articles
 - [Why Framer Matters](https://medium.com/@drocarmo/why-framer-js-matters-93eb1206e606)
+- [Motion is Emotion](https://blog.grandcentrix.net/motion-is-emotion/)
 
 ## Modules
 - [Framer Google Fonts](https://github.com/peteschaffner/framer-googlefonts)
@@ -14,10 +15,12 @@ A curated list of awesome Framer resources.
 
 ## Tutorials
 - [iOS Lock Screen Interaction](http://www.prototypingwithframer.com/ios-lock-screen-interaction/)
-- [Creating Your First Prototype With Framer](https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668)
-- [Periscope Heart Animation](https://www.youtube.com/watch?v=qFUXxqzZytU) by [Jordan Dobson](https://twitter.com/jordandobson) 
+- [Creating Your First Prototype With Framer](https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668) - by [Kenny Chen](https://blog.grandcentrix.net/motion-is-emotion/)
+- [Periscope Heart Animation](https://www.youtube.com/watch?v=qFUXxqzZytU) - by [Jordan Dobson](https://twitter.com/jordandobson) 
 - [New to Framer? Just 3 Things to Get Tou Started](https://medium.com/@designforhuman/new-to-framer-just-3-things-to-get-you-started-47397f27c71e)
 - [Using Parse to power up your Framer prototypes](https://medium.com/@gk3/using-parse-to-power-up-your-framer-prototypes-88cb87009d00) - by [George Kedenburg III](http://twitter.com/gk3)
+- [Working with Framer](http://humaan.com/prototyping-with-framer/) - by [Dan Moore](http://twitter.com/ddmoore)
+- [Framer for Beginners](https://medium.com/@sean_mateer/framer-js-for-people-who-think-things-like-framer-js-are-weird-and-hard-add2068c8114) - by [Sean Mateer](https://twitter.com/Sean_Mateer)
 
 ## Presentations
 - [Prototyping with Framer](https://speakerdeck.com/stakes/prototyping-with-framer) - by [Jay Stakelon](http://twitter.com/stakelon)
