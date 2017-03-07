@@ -1,3 +1,5 @@
+Deprecated. Use podo's [awesome-framer](https://github.com/podo/awesome-framer) list.
+
 # Awesome Framer 
 A curated list of awesome Framer resources.
 
